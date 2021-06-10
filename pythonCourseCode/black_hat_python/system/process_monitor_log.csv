@@ -1,0 +1,548 @@
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216152122.191234+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,8544,476,N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216152245.301892+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,18092,476,N/A
+ 
+20201216152245.471986+480,None\None,None,None,3316,816,N/A
+ 
+20201216152245.732015+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\svchost.exe,C:\Windows\system32\svchost.exe -k BcastDVRUserService -s BcastDVRUserService,12968,816,N/A
+ 
+20201216152250.746335+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\backgroundTaskHost.exe,"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:CortanaUI.AppXy7vb4pc2dr3kc93kfc509b1d0arkfb2x.mca,3944,476,N/A
+ 
+20201216152303.274425+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,1136,476,N/A
+ 
+20201216152303.056563+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe" ,16220,6984,N/A
+ 
+20201216152303.350357+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\OpenConsole.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\OpenConsole.exe" --headless --win32input --resizeQuirk --width 120 --height 30 --signal 0x954 --server 0x950,16648,16220,N/A
+ 
+20201216152303.355490+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,powershell.exe,2856,16220,N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216152310.079762+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,3292,476,N/A
+ 
+20201216152310.420553+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,12520,476,N/A
+ 
+20201216152316.459674+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\notepad.exe,"C:\Windows\system32\notepad.exe",16592,2856,N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216152350.897517+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,18172,476,N/A
+ 
+20201216152355.369296+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\notepad.exe,"C:\Windows\system32\notepad.exe",2388,2856,N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216152429.197365+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe" ,10592,6984,N/A
+ 
+20201216152429.481616+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\OpenConsole.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.4.3243.0_x64__8wekyb3d8bbwe\OpenConsole.exe" --headless --win32input --resizeQuirk --width 120 --height 30 --signal 0x96c --server 0x968,1648,10592,N/A
+ 
+20201216152429.486913+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,powershell.exe,7660,10592,N/A
+ 
+20201216152432.995166+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\notepad.exe,"C:\Windows\system32\notepad.exe",5456,7660,N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216152448.660864+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\cmd.exe,"C:\Windows\system32\cmd.exe",10904,7660,N/A
+ 
+20201216152456.289818+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\notepad.exe,notepad,3320,10904,N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216153435.249427+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,10692,476,N/A
+ 
+20201216153434.926099+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,8420,476,N/A
+ 
+20201216153450.777759+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\notepad.exe,notepad,10356,10904,N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216153534.267577+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,2324,476,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+20201216153534.595452+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,8008,476,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+20201216153535.830836+480,None\None,None,None,18020,816,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153536.940902+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\rundll32.exe,rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh,16528,16932,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+20201216153536.247183+480,None\None,None,None,6084,816,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153536.917775+480,None\None,None,None,8772,816,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153539.665269+480,None\None,None,None,4844,816,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153604.412403+480,None\None,None,None,4620,5692,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153605.305954+480,LAPTOP-C2ETHV00\wq,None,None,16716,6984,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153605.600668+480,LAPTOP-C2ETHV00\wq,None,None,2772,16716,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153605.594087+480,LAPTOP-C2ETHV00\wq,None,None,4116,16716,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153613.093128+480,LAPTOP-C2ETHV00\wq,None,None,18296,2772,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153613.635841+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\backgroundTaskHost.exe,"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca,1200,476,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+20201216153613.752367+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,6576,476,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+20201216153629.292619+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,7020,476,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+20201216153629.618369+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,9268,476,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+20201216153654.927706+480,None\None,None,None,12324,816,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153654.977876+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,2272,476,N/A (6, 'GetTokenInformation', '¾ä±úÎÞÐ§¡£') N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216153739.422727+480,LAPTOP-C2ETHV00\wq,None,None,15188,2772,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153837.835755+480,LAPTOP-C2ETHV00\wq,D:\WeChat\WeChatWeb.exe,WeChatWeb.exe --type=renderer --no-sandbox --client-id=wechat --disable-databases --primordial-pipe-token=E4FBBDB910A93D9B4A8E46B357900E63 --user-agent-extra="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2875.116 Safari/537.36 NetType/WIFI MicroMessenger/7.0.5 WindowsWechat" --lang=en-US --lang=zh-CN --locales-dir-path="C:\Users\wq\AppData\Roaming\Tencent\WeChat\All Users\CefResources\2581\locales" --log-file="C:\Users\wq\AppData\Roaming\Tencent\WeChat\log\cef.log" --resources-dir-path="C:\Users\wq\AppData\Roaming\Tencent\WeChat\All Users\CefResources\2581" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --mojo-channel-token=EEFE0C72B9C37E2CDD395EBCC34C05C5 --mojo-application-channel-token=E4FBBDB910A93D9B4A8E46B357900E63 --channel="12500.1.2049323179\1873529306" --fix-fasa --mojo-platform-channel-handle=4444 /prefetch:1,12272,12500,SeChangeNotifyPrivilege|
+ 
+20201216153900.735037+480,LAPTOP-C2ETHV00\wq,None,None,16680,2772,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153901.163560+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,10004,476,SeChangeNotifyPrivilege|
+ 
+20201216153900.829088+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,15288,476,SeChangeNotifyPrivilege|
+ 
+20201216153909.012382+480,LAPTOP-C2ETHV00\wq,None,None,1108,2772,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+20201216153922.141894+480,LAPTOP-C2ETHV00\wq,None,None,16648,1108,N/A (5, 'OpenProcess', '¾Ü¾ø·ÃÎÊ¡£') N/A
+ 
+Time,User,Executable,CommandLine,PID,Patent PID,Privileges 
+20201216153950.222145+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,16156,476,SeChangeNotifyPrivilege|
+ 
+20201216153950.548394+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,14904,476,SeChangeNotifyPrivilege|
+ 
+20201216154003.953293+480,LAPTOP-C2ETHV00\wq,None,None,12628,1108,N/A
+ 
+20201216154030.169831+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\smartscreen.exe,C:\Windows\System32\smartscreen.exe -Embedding,12364,476,SeChangeNotifyPrivilege|
+ 
+20201216154030.213224+480,None\None,None,None,12964,5692,N/A
+ 
+20201216154031.398159+480,LAPTOP-C2ETHV00\wq,None,None,11068,2272,N/A
+ 
+20201216154031.395150+480,LAPTOP-C2ETHV00\wq,None,None,2272,6984,N/A
+ 
+20201216154032.400760+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\backgroundTaskHost.exe,"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:CortanaUI.AppXy7vb4pc2dr3kc93kfc509b1d0arkfb2x.mca,3180,476,SeChangeNotifyPrivilege|
+ 
+20201216154045.287176+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,17324,476,SeChangeNotifyPrivilege|
+ 
+20201216154045.626956+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,9196,476,SeChangeNotifyPrivilege|
+ 
+20201216154052.726505+480,LAPTOP-C2ETHV00\wq,None,None,16092,2272,N/A
+ 
+20201216154441.508251+480,LAPTOP-C2ETHV00\wq,None,"D:\pandaOCR\PandaOCR.exe" ,10424,6984,SeChangeNotifyPrivilege|
+ 
+20201216154459.636270+480,LAPTOP-C2ETHV00\wq,D:\SogouInput\9.1.0.2589\SGTool.exe,"D:\SogouInput\9.1.0.2589\SGTool.exe" -daemon,12628,10424,SeChangeNotifyPrivilege|
+ 
+20201216154540.970812+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=40 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=12000 /prefetch:1,8712,13152,
+ 
+20201216154552.429471+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=41 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2672 /prefetch:1,1112,13152,
+ 
+20201216154552.982855+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=42 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5568 /prefetch:1,16988,13152,
+ 
+20201216154557.420302+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=43 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=1784 /prefetch:1,5736,13152,
+ 
+20201216154604.933658+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=44 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7840 /prefetch:1,10524,13152,
+ 
+20201216154605.479061+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=45 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7924 /prefetch:1,3032,13152,
+ 
+20201216154625.070461+480,None\None,None,None,16112,816,N/A
+ 
+20201216154625.532235+480,None\None,None,None,17992,816,N/A
+ 
+20201216154626.633034+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\backgroundTaskHost.exe,"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXfkd8mejksk4ancwf4vtyhmkvtzn1jcbs.mca,1568,476,SeChangeNotifyPrivilege|
+ 
+20201216154626.276209+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\rundll32.exe,rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh,17144,16932,SeChangeNotifyPrivilege|
+ 
+20201216154626.805980+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,10336,476,SeChangeNotifyPrivilege|
+ 
+20201216154629.268636+480,None\None,None,None,17496,816,N/A
+ 
+20201216154646.120341+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=46 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=1784 /prefetch:1,2372,13152,
+ 
+20201216154728.595206+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=47 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=9744 /prefetch:1,14900,13152,
+ 
+20201216154735.144492+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=48 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=9988 /prefetch:1,16976,13152,
+ 
+20201216154741.421383+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=49 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=9488 /prefetch:1,18104,13152,
+ 
+20201216155350.314124+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,17868,17884,SeChangeNotifyPrivilege|
+ 
+20201216155631.772496+480,None\None,None,None,7440,816,N/A
+ 
+20201216155738.394476+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=50 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5840 /prefetch:1,12264,13152,
+ 
+20201216155750.258953+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=51 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2672 /prefetch:1,9040,13152,
+ 
+20201216155839.504140+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,9104,17884,SeChangeNotifyPrivilege|
+ 
+20201216155925.083890+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\backgroundTaskHost.exe,"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:CortanaUI.AppXy7vb4pc2dr3kc93kfc509b1d0arkfb2x.mca,13328,476,SeChangeNotifyPrivilege|
+ 
+20201216160028.097650+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=53 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=6940 /prefetch:1,2536,13152,
+ 
+20201216160027.698325+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=52 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3036 /prefetch:1,7416,13152,
+ 
+20201216160028.429001+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=54 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2436 /prefetch:1,7484,13152,
+ 
+20201216160040.259760+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=55 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7752 /prefetch:1,3420,13152,
+ 
+20201216160133.867921+480,None\None,None,None,9136,816,N/A
+ 
+20201216160246.983398+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20110.11001.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,"C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20110.11001.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca,8316,476,SeChangeNotifyPrivilege|
+ 
+20201216160247.467230+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\smartscreen.exe,C:\Windows\System32\smartscreen.exe -Embedding,10836,476,SeChangeNotifyPrivilege|
+ 
+20201216160247.865486+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,14632,476,SeChangeNotifyPrivilege|
+ 
+20201216160253.800593+480,None\None,None,None,14452,816,N/A
+ 
+20201216160344.756046+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=56 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=12144 /prefetch:1,7884,13152,
+ 
+20201216160347.329175+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=57 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8248 /prefetch:1,5420,13152,
+ 
+20201216160347.807898+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=58 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8344 /prefetch:1,4556,13152,
+ 
+20201216160356.692197+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=59 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8748 /prefetch:1,9236,13152,
+ 
+20201216160423.898684+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=60 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7028 /prefetch:1,1984,13152,
+ 
+20201216160435.839571+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=61 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=6964 /prefetch:1,18272,13152,
+ 
+20201216160448.627800+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=62 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=5840 /prefetch:1,18264,13152,
+ 
+20201216160500.340864+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=63 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8808 /prefetch:1,3232,13152,
+ 
+20201216160500.911308+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=64 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8664 /prefetch:1,400,13152,
+ 
+20201216160516.045571+480,LAPTOP-C2ETHV00\wq,D:\Internet Download Manager\IDMan.exe,"D:\Internet Download Manager\IDMan.exe" -Embedding,6448,476,SeChangeNotifyPrivilege|
+ 
+20201216160526.860548+480,None\None,None,None,17660,5692,N/A
+ 
+20201216160528.101203+480,LAPTOP-C2ETHV00\wq,None,None,6292,6448,N/A
+ 
+20201216160534.330065+480,LAPTOP-C2ETHV00\wq,D:\SogouInput\9.1.0.2589\SGTool.exe,"D:\SogouInput\9.1.0.2589\SGTool.exe" -daemon,14760,6448,SeChangeNotifyPrivilege|
+ 
+20201216160535.923361+480,LAPTOP-C2ETHV00\wq,C:\Windows\explorer.exe,C:\Windows\explorer.exe /factory,{75dff2b7-6936-4c06-a8bb-676a7b00b24b} -Embedding,5772,476,SeChangeNotifyPrivilege|
+ 
+20201216160600.881207+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=65 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=2656 /prefetch:1,13028,13152,
+ 
+20201216160618.254392+480,None\None,None,None,1400,5692,N/A
+ 
+20201216160619.452292+480,LAPTOP-C2ETHV00\wq,None,None,3320,6448,N/A
+ 
+20201216160642.978242+480,LAPTOP-C2ETHV00\wq,None,None,16752,3320,N/A
+ 
+20201216160642.932202+480,None\None,None,None,7996,816,N/A
+ 
+20201216160643.283545+480,None\None,None,None,11692,7672,N/A
+ 
+20201216160643.298507+480,None\None,None,None,7696,7672,N/A
+ 
+20201216160644.760021+480,LAPTOP-C2ETHV00\wq,None,None,15924,16752,N/A
+ 
+20201216160646.704966+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\QyImg.exe,"D:\IQyImg\IQIYI Video\QyImg\QyImg.exe" -r=i,3696,6984,SeChangeNotifyPrivilege|
+ 
+20201216160647.863575+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20110.11001.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,"C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2020.20110.11001.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca,12516,476,SeChangeNotifyPrivilege|
+ 
+20201216160648.158336+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,9104,476,SeChangeNotifyPrivilege|
+ 
+20201216160648.742384+480,LAPTOP-C2ETHV00\wq,C:\Windows\SysWOW64\DllHost.exe,C:\Windows\SysWOW64\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},7608,476,SeChangeNotifyPrivilege|
+ 
+20201216160655.003664+480,None\None,None,None,11972,816,N/A
+ 
+20201216160659.953970+480,LAPTOP-C2ETHV00\wq,None,None,4100,15924,N/A
+ 
+20201216160701.379008+480,LAPTOP-C2ETHV00\wq,None,None,13268,4100,N/A
+ 
+20201216160703.086988+480,LAPTOP-C2ETHV00\wq,d:\iqyimg\iqiyi video\qyimg\qyimg.exe,"d:\iqyimg\iqiyi video\qyimg\qyimg.exe" -r=o "D:\onedrive\×ÀÃæ\1608105759(1).jpg",11796,6984,SeChangeNotifyPrivilege|
+ 
+20201216160704.986574+480,None\None,None,None,7148,11684,N/A
+ 
+20201216160705.001148+480,None\None,None,None,9168,7148,N/A
+ 
+20201216160705.123827+480,None\None,None,None,9060,816,N/A
+ 
+20201216160804.967770+480,LAPTOP-C2ETHV00\wq,C:\Windows\SysWOW64\DllHost.exe,C:\Windows\SysWOW64\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},11012,476,SeChangeNotifyPrivilege|
+ 
+20201216160808.752296+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\QyImg.exe,"D:\IQyImg\IQIYI Video\QyImg\QyImg.exe" "D:\onedrive\×ÀÃæ\1608105759(1)_°®ÆæÒÕ.png" -r=shl,14744,6984,SeChangeNotifyPrivilege|
+ 
+20201216160810.958806+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\QyImg.exe,"D:\IQyImg\IQIYI Video\QyImg\QyImg.exe" "D:\onedrive\×ÀÃæ\1608105759(1).jpg" -r=shl,9052,6984,SeChangeNotifyPrivilege|
+ 
+20201216160812.900814+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\QyImg.exe,"D:\IQyImg\IQIYI Video\QyImg\QyImg.exe" "D:\onedrive\×ÀÃæ\1608105759(1)_°®ÆæÒÕ.png" -r=shl,9196,6984,SeChangeNotifyPrivilege|
+ 
+20201216160852.540736+480,LAPTOP-C2ETHV00\wq,C:\Windows\SysWOW64\DllHost.exe,C:\Windows\SysWOW64\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5},10124,476,SeChangeNotifyPrivilege|
+ 
+20201216160859.136305+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=66 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8780 /prefetch:1,4000,13152,
+ 
+20201216160910.141167+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\QyImg.exe,"D:\IQyImg\IQIYI Video\QyImg\QyImg.exe" "D:\onedrive\×ÀÃæ\1608105759(1)_°®ÆæÒÕ_°®ÆæÒÕ.jpg" -r=shl,7292,6984,SeChangeNotifyPrivilege|
+ 
+20201216160911.177924+480,None\None,None,None,14636,7672,N/A
+ 
+20201216160934.633819+480,LAPTOP-C2ETHV00\wq,D:\WeChat\WeChatWeb.exe,WeChatWeb.exe --type=renderer --no-sandbox --client-id=wechat --disable-databases --primordial-pipe-token=1CDA8E9FF258BD997F8C9C3E2FCBBC8F --user-agent-extra="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2875.116 Safari/537.36 NetType/WIFI MicroMessenger/7.0.5 WindowsWechat" --lang=en-US --lang=zh-CN --locales-dir-path="C:\Users\wq\AppData\Roaming\Tencent\WeChat\All Users\CefResources\2581\locales" --log-file="C:\Users\wq\AppData\Roaming\Tencent\WeChat\log\cef.log" --resources-dir-path="C:\Users\wq\AppData\Roaming\Tencent\WeChat\All Users\CefResources\2581" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --mojo-channel-token=CC4765B66AF4C4DE353371F336BF3E32 --mojo-application-channel-token=1CDA8E9FF258BD997F8C9C3E2FCBBC8F --channel="12500.2.558565335\1951149193" --fix-fasa --mojo-platform-channel-handle=5620 /prefetch:1,2732,12500,SeChangeNotifyPrivilege|
+ 
+20201216160944.153695+480,LAPTOP-C2ETHV00\wq,D:\WeChat\WeChatWeb.exe,WeChatWeb.exe --type=renderer --no-sandbox --client-id=wechat --disable-databases --primordial-pipe-token=F3A0029E46A4F154DF3A1BF2622712A8 --user-agent-extra="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2875.116 Safari/537.36 NetType/WIFI MicroMessenger/7.0.5 WindowsWechat" --lang=en-US --lang=zh-CN --locales-dir-path="C:\Users\wq\AppData\Roaming\Tencent\WeChat\All Users\CefResources\2581\locales" --log-file="C:\Users\wq\AppData\Roaming\Tencent\WeChat\log\cef.log" --resources-dir-path="C:\Users\wq\AppData\Roaming\Tencent\WeChat\All Users\CefResources\2581" --enable-pinch --device-scale-factor=1 --num-raster-threads=4 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --mojo-channel-token=CA09863A0CEF55796A1D2AEA904D7001 --mojo-application-channel-token=F3A0029E46A4F154DF3A1BF2622712A8 --channel="12500.3.273976003\15698516" --fix-fasa --mojo-platform-channel-handle=6000 /prefetch:1,15924,12500,SeChangeNotifyPrivilege|
+ 
+20201216161131.883963+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,5428,476,SeChangeNotifyPrivilege|
+ 
+20201216161200.376492+480,None\None,None,None,9064,816,N/A
+ 
+20201216161225.556595+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,5564,476,SeChangeNotifyPrivilege|
+ 
+20201216161650.881476+480,LAPTOP-C2ETHV00\wq,None,None,2880,2244,N/A
+ 
+20201216161651.757887+480,LAPTOP-C2ETHV00\wq,None,None,18212,2880,N/A
+ 
+20201216161722.004151+480,None\None,None,None,8884,816,N/A
+ 
+20201216161825.512315+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,18248,17884,SeChangeNotifyPrivilege|
+ 
+20201216162520.230746+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,5852,17884,SeChangeNotifyPrivilege|
+ 
+20201216162628.599203+480,None\None,None,None,17144,7672,N/A
+ 
+20201216162628.647476+480,None\None,None,None,8884,7672,N/A
+ 
+20201216162631.783602+480,None\None,None,None,14916,816,N/A
+ 
+20201216162812.640657+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,9136,17884,SeChangeNotifyPrivilege|
+ 
+20201216162842.458202+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,6620,8068,SeChangeNotifyPrivilege|
+ 
+20201216162854.133707+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,14712,17884,SeChangeNotifyPrivilege|
+ 
+20201216162947.539811+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,12308,17884,SeChangeNotifyPrivilege|
+ 
+20201216163006.538214+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,4760,8896,SeChangeNotifyPrivilege|
+ 
+20201216163008.667685+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,2720,17884,SeChangeNotifyPrivilege|
+ 
+20201216163110.223845+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,5204,17884,SeChangeNotifyPrivilege|
+ 
+20201216163126.035452+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,18168,17884,SeChangeNotifyPrivilege|
+ 
+20201216163200.040193+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,1572,1844,SeChangeNotifyPrivilege|
+ 
+20201216163204.221906+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,18380,17884,SeChangeNotifyPrivilege|
+ 
+20201216163223.232815+480,None\None,None,None,16308,816,N/A
+ 
+20201216163423.148954+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,15512,1692,SeChangeNotifyPrivilege|
+ 
+20201216163432.666290+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,16748,17884,SeChangeNotifyPrivilege|
+ 
+20201216163457.254226+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,11028,14144,SeChangeNotifyPrivilege|
+ 
+20201216163639.040312+480,LAPTOP-C2ETHV00\wq,D:\SogouInput\9.1.0.2589\SGTool.exe,"D:\SogouInput\9.1.0.2589\SGTool.exe" -daemon,3132,6984,SeChangeNotifyPrivilege|
+ 
+20201216163638.995874+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\smartscreen.exe,C:\Windows\System32\smartscreen.exe -Embedding,7652,476,SeChangeNotifyPrivilege|
+ 
+20201216163703.511192+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,1152,18024,SeChangeNotifyPrivilege|
+ 
+20201216163726.971281+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,12000,17884,SeChangeNotifyPrivilege|
+ 
+20201216163754.696025+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe D:/troila/py_project/pythonCourse/black_hat_python/system/file_monitor.py,648,17884,SeChangeNotifyPrivilege|
+ 
+20201216163754.698067+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,7624,648,SeChangeNotifyPrivilege|
+ 
+20201216163902.025700+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\1.0.17.1465\QyImgUpdate.exe,"D:\IQyImg\IQIYI Video\QyImg\1.0.17.1465\QyImgUpdate.exe" -cmd=d -t=10000,15152,8884,SeChangeNotifyPrivilege|
+ 
+20201216163901.877778+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\QyImg.exe,"D:\IQyImg\IQIYI Video\QyImg\QyImg.exe" -a=r  -r=gu,8884,6984,SeChangeNotifyPrivilege|
+ 
+20201216163902.970296+480,None\None,None,None,13908,7672,N/A
+ 
+20201216163902.932521+480,None\None,None,None,18144,7672,N/A
+ 
+20201216163919.221442+480,None\None,None,None,17144,5692,N/A
+ 
+20201216163920.611310+480,LAPTOP-C2ETHV00\wq,None,None,11340,6984,N/A
+ 
+20201216163920.930757+480,LAPTOP-C2ETHV00\wq,None,None,18036,11340,N/A
+ 
+20201216163920.849809+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,7956,476,SeChangeNotifyPrivilege|
+ 
+20201216163920.936491+480,LAPTOP-C2ETHV00\wq,None,None,9336,11340,N/A
+ 
+20201216163954.603398+480,LAPTOP-C2ETHV00\wq,None,None,6508,9336,N/A
+ 
+20201216164009.177237+480,LAPTOP-C2ETHV00\wq,None,None,2648,11340,N/A
+ 
+20201216164009.171819+480,LAPTOP-C2ETHV00\wq,None,None,8592,11340,N/A
+ 
+20201216164200.351014+480,None\None,None,None,11200,816,N/A
+ 
+20201216164200.506523+480,None\None,None,None,2336,816,N/A
+ 
+20201216164249.420883+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,12172,17884,SeChangeNotifyPrivilege|
+ 
+20201216164316.171904+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,15980,2688,SeChangeNotifyPrivilege|
+ 
+20201216164320.385133+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,1416,6192,SeChangeNotifyPrivilege|
+ 
+20201216164324.566546+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,14812,17884,SeChangeNotifyPrivilege|
+ 
+20201216164638.979755+480,LAPTOP-C2ETHV00\wq,D:\SogouInput\9.1.0.2589\SGTool.exe,"D:\SogouInput\9.1.0.2589\SGTool.exe" -daemon,16752,6984,SeChangeNotifyPrivilege|
+ 
+20201216164638.933139+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\smartscreen.exe,C:\Windows\System32\smartscreen.exe -Embedding,17456,476,SeChangeNotifyPrivilege|
+ 
+20201216164657.383262+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=67 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8236 /prefetch:1,12464,13152,
+ 
+20201216164705.525680+480,None\None,None,None,10004,816,N/A
+ 
+20201216164709.495880+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=68 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=11992 /prefetch:1,6936,13152,
+ 
+20201216164830.196168+480,LAPTOP-C2ETHV00\wq,None,None,11336,11340,N/A
+ 
+20201216164830.191209+480,LAPTOP-C2ETHV00\wq,None,None,3204,11340,N/A
+ 
+20201216164921.767932+480,LAPTOP-C2ETHV00\wq,None,None,17472,11336,N/A
+ 
+20201216165044.660914+480,LAPTOP-C2ETHV00\wq,D:\Notepad++\notepad++.exe,"D:\Notepad++\notepad++.exe" ,17480,6984,SeChangeNotifyPrivilege|
+ 
+20201216165055.137287+480,LAPTOP-C2ETHV00\wq,D:\SogouInput\9.1.0.2589\SGTool.exe,"D:\SogouInput\9.1.0.2589\SGTool.exe" -daemon,4852,17480,SeChangeNotifyPrivilege|
+ 
+20201216165117.348211+480,LAPTOP-C2ETHV00\wq,None,None,17296,11340,N/A
+ 
+20201216165117.343110+480,LAPTOP-C2ETHV00\wq,None,None,17520,11340,N/A
+ 
+20201216165145.596885+480,LAPTOP-C2ETHV00\wq,None,None,9428,17296,N/A
+ 
+20201216165628.150950+480,None\None,None,None,17044,7672,N/A
+ 
+20201216165628.116601+480,None\None,None,None,5800,7672,N/A
+ 
+20201216165631.780282+480,None\None,None,None,17380,816,N/A
+ 
+20201216165633.867888+480,None\None,None,None,2100,476,N/A
+ 
+20201216165633.851171+480,None\None,None,None,5604,816,N/A
+ 
+20201216165633.823275+480,None\None,None,None,6168,816,N/A
+ 
+20201216170119.771437+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=69 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=11712 /prefetch:1,3668,13152,
+ 
+20201216170132.976142+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\MusNotificationUx.exe,%systemroot%\system32\MusNotificationUx.exe ClearActiveNotifications,1044,17264,SeChangeNotifyPrivilege|
+ 
+20201216170132.750507+480,None\None,None,None,1112,476,N/A
+ 
+20201216170132.885015+480,None\None,None,None,12564,816,N/A
+ 
+20201216170132.946945+480,None\None,None,None,16928,816,N/A
+ 
+20201216170132.878380+480,None\None,None,None,17264,1620,N/A
+ 
+20201216170132.915167+480,None\None,None,None,17956,816,N/A
+ 
+20201216170134.120552+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\MusNotificationUx.exe,%systemroot%\system32\MusNotificationUx.exe ClearActiveNotifications,1200,7644,SeChangeNotifyPrivilege|
+ 
+20201216170133.395356+480,None\None,None,None,16816,816,N/A
+ 
+20201216170133.551638+480,None\None,None,None,4148,1620,N/A
+ 
+20201216170134.086830+480,None\None,None,None,7644,1620,N/A
+ 
+20201216170134.538191+480,None\None,None,None,9328,816,N/A
+ 
+20201216170137.357832+480,None\None,None,None,12452,816,N/A
+ 
+20201216170137.371014+480,None\None,None,None,7608,476,N/A
+ 
+20201216170142.533887+480,None\None,None,None,3292,1620,N/A
+ 
+20201216170142.568086+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\MusNotificationUx.exe,%systemroot%\system32\MusNotificationUx.exe ClearActiveNotifications,6868,3292,SeChangeNotifyPrivilege|
+ 
+20201216170143.280105+480,None\None,None,None,18216,1620,N/A
+ 
+20201216170144.084166+480,None\None,None,None,17672,1620,N/A
+ 
+20201216170301.024147+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,10604,476,SeChangeNotifyPrivilege|
+ 
+20201216170300.894856+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\backgroundTaskHost.exe,"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca,2772,476,SeChangeNotifyPrivilege|
+ 
+20201216170851.580252+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=70 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3532 /prefetch:1,2044,13152,
+ 
+20201216170901.893121+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\smartscreen.exe,C:\Windows\System32\smartscreen.exe -Embedding,14684,476,SeChangeNotifyPrivilege|
+ 
+20201216170901.951705+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\QyImg.exe,"D:\IQyImg\IQIYI Video\QyImg\QyImg.exe" -a=r  -r=gu,5528,6984,SeChangeNotifyPrivilege|
+ 
+20201216170902.319576+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=71 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7904 /prefetch:1,10828,13152,
+ 
+20201216170902.594127+480,None\None,None,None,11224,7672,N/A
+ 
+20201216170902.729705+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=72 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=7388 /prefetch:1,11568,13152,
+ 
+20201216170902.582311+480,None\None,None,None,13360,7672,N/A
+ 
+20201216170902.082301+480,LAPTOP-C2ETHV00\wq,D:\IQyImg\IQIYI Video\QyImg\1.0.17.1465\QyImgUpdate.exe,"D:\IQyImg\IQIYI Video\QyImg\1.0.17.1465\QyImgUpdate.exe" -cmd=d -t=10000,15980,5528,SeChangeNotifyPrivilege|
+ 
+20201216170904.644356+480,None\None,None,None,11504,816,N/A
+ 
+20201216170905.299491+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=73 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=11908 /prefetch:1,16528,13152,
+ 
+20201216170914.524203+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=74 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=12112 /prefetch:1,10336,13152,
+ 
+20201216170942.081129+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\SearchProtocolHost.exe,"C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-3886075782-762472156-3490715396-10029_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-3886075782-762472156-3490715396-10029 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1",17324,7672,SeChangeNotifyPrivilege|
+ 
+20201216170941.705224+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\NOTEPAD.EXE,"C:\Windows\system32\NOTEPAD.EXE" D:\onedrive\×ÀÃæ\ÐÂ½¨ÎÄ±¾ÎÄµµ.txt,6136,6984,SeChangeNotifyPrivilege|
+ 
+20201216170944.977016+480,None\None,None,None,17868,816,N/A
+ 
+20201216170951.837503+480,LAPTOP-C2ETHV00\wq,None,"D:\SogouInput\9.1.0.2589\SGTool.exe" -daemon,15512,6136,SeChangeNotifyPrivilege|
+ 
+20201216171007.755669+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,17180,476,SeChangeNotifyPrivilege|
+ 
+20201216171023.784235+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\NOTEPAD.EXE,"C:\Windows\system32\NOTEPAD.EXE" D:\onedrive\×ÀÃæ\a.vbs.txt,17896,6984,SeChangeNotifyPrivilege|
+ 
+20201216171106.677352+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\NOTEPAD.EXE,"C:\Windows\system32\NOTEPAD.EXE" D:\onedrive\×ÀÃæ\a.vbs.txt,10524,6984,SeChangeNotifyPrivilege|
+ 
+20201216171106.853968+480,None\None,None,None,11164,7672,N/A
+ 
+20201216171122.268627+480,LAPTOP-C2ETHV00\wq,C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe,"C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2010.0.0_x64__8wekyb3d8bbwe\Calculator.exe" -ServerName:App.AppXsm3pg4n7er43kdh1qp4e79f1j7am68r8.mca,2096,476,SeChangeNotifyPrivilege|
+ 
+20201216171122.617264+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,7656,476,SeChangeNotifyPrivilege|
+ 
+20201216171131.907886+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,6184,476,SeChangeNotifyPrivilege|
+ 
+20201216171140.206580+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=75 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=8428 /prefetch:1,16572,13152,
+ 
+20201216171152.066494+480,LAPTOP-C2ETHV00\wq,C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe,"C:\Users\wq\AppData\Local\Google\Chrome\Application\chrome.exe" --type=renderer --field-trial-handle=1860,4999795060894219399,9928869563724560347,131072 --lang=zh-CN --extension-process --disable-client-side-phishing-detection --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=76 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=9992 /prefetch:1,10500,13152,
+ 
+20201216171451.034421+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,16592,17224,SeChangeNotifyPrivilege|
+ 
+20201216171507.893464+480,LAPTOP-C2ETHV00\wq,C:\Windows\system32\conhost.exe,\??\C:\Windows\system32\conhost.exe 0x4,10364,15168,SeChangeNotifyPrivilege|
+ 
+20201216171636.256008+480,None\None,None,None,8992,816,N/A
+ 
+20201216171650.875833+480,LAPTOP-C2ETHV00\wq,None,None,10636,2244,N/A
+ 
+20201216171651.747550+480,LAPTOP-C2ETHV00\wq,None,None,6104,10636,N/A
+ 
+20201216171705.634754+480,None\None,None,None,17132,816,N/A
+ 
+20201216171732.888043+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,564,17884,SeChangeNotifyPrivilege|
+ 
+20201216171823.479921+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,1172,17884,SeChangeNotifyPrivilege|
+ 
+20201216171949.450281+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,13576,17884,SeChangeNotifyPrivilege|
+ 
+20201216172210.303428+480,None\None,None,None,13996,816,N/A
+ 
+20201216172230.710748+480,None\None,None,None,11496,5692,N/A
+ 
+20201216172232.170034+480,LAPTOP-C2ETHV00\wq,C:\Windows\System32\RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe -Embedding,12824,476,SeChangeNotifyPrivilege|
+ 
+20201216172232.262894+480,LAPTOP-C2ETHV00\wq,None,None,2308,9944,N/A
+ 
+20201216172232.268481+480,LAPTOP-C2ETHV00\wq,None,None,3368,9944,N/A
+ 
+20201216172231.956936+480,LAPTOP-C2ETHV00\wq,None,None,9944,6984,N/A
+ 
+20201216172234.353747+480,LAPTOP-C2ETHV00\wq,None,None,17964,9944,N/A
+ 
+20201216172234.359388+480,LAPTOP-C2ETHV00\wq,None,None,4724,9944,N/A
+ 
+20201216172236.208300+480,LAPTOP-C2ETHV00\wq,None,None,10696,9944,N/A
+ 
+20201216172236.213627+480,LAPTOP-C2ETHV00\wq,None,None,1948,9944,N/A
+ 
+20201216172245.321795+480,LAPTOP-C2ETHV00\wq,D:\python3.7.5\python.exe,D:\python3.7.5\python.exe "D:\PyCharm 2020.2.3\plugins\python\helpers\pycodestyle.py" --max-line-length=120 -,3420,17884,SeChangeNotifyPrivilege|
+ 
+20201216172256.967479+480,LAPTOP-C2ETHV00\wq,None,None,8332,4724,N/A
+ 
